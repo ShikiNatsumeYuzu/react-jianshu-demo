@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "data": [{
+    "id": 5,
+    "title": "用户画像1：用户画像基础",
+    "desc": "用户画像，即用户信息标签化，是大数据精细化运营和精准营销服务的基础。它是一种勾画目标用户、联系用户诉求与设计方向的有效工具。在大数据的时代下，用...",
+    "imgUrl": "https://upload-images.jianshu.io/upload_images/9472959-4d3f5984205e66f8.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+  }, {
+    "id": 6,
+    "title": "用户画像1：用户画像基础",
+    "desc": "用户画像，即用户信息标签化，是大数据精细化运营和精准营销服务的基础。它是一种勾画目标用户、联系用户诉求与设计方向的有效工具。在大数据的时代下，用...",
+    "imgUrl": "https://upload-images.jianshu.io/upload_images/9472959-4d3f5984205e66f8.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+  }, {
+    "id": 7,
+    "title": "用户画像1：用户画像基础",
+    "desc": "用户画像，即用户信息标签化，是大数据精细化运营和精准营销服务的基础。它是一种勾画目标用户、联系用户诉求与设计方向的有效工具。在大数据的时代下，用...",
+    "imgUrl": "https://upload-images.jianshu.io/upload_images/9472959-4d3f5984205e66f8.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+  }, {
+    "id": 8,
+    "title": "用户画像1：用户画像基础",
+    "desc": "用户画像，即用户信息标签化，是大数据精细化运营和精准营销服务的基础。它是一种勾画目标用户、联系用户诉求与设计方向的有效工具。在大数据的时代下，用...",
+    "imgUrl": "https://upload-images.jianshu.io/upload_images/9472959-4d3f5984205e66f8.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+  }]
+}
